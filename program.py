@@ -1,2 +1,2 @@
 for i in range(100):
-	print(i**i)
+	print(i**i+1)
